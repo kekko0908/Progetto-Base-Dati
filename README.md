@@ -1,2 +1,2 @@
 # Progetto-Base-Dati
-d
+Progetto ideato da Paduano Francesco,Peppe Patalano,Mirko Prevenzano
